@@ -2,7 +2,7 @@
 - - - algo
     - ppo
   - - conf_file
-    - null
+    - scripts/training_env_configs.yaml
   - - device
     - auto
   - - env
@@ -56,7 +56,7 @@
   - - save_replay_buffer
     - false
   - - seed
-    - 2075671533
+    - 4046136762
   - - storage
     - null
   - - study_name
